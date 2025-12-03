@@ -3,8 +3,9 @@ Contact Info: [fill in]
 ### About Me 
 [Fill in Madlibs here]
 
-### Education 
-[Fill in Education here]
+### Education
+**BBA in Information Systems & Data Analytics**  
+Loyola University Maryland
 ***
 ### Projects
 
