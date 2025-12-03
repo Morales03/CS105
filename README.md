@@ -1,7 +1,7 @@
 # Brenda Morales Valdez
 Contact Info: [bsmoralesvaldez@loyola.edu]
 ### About Me 
-Hi! I am a first-generation student at Loyola University Maryland and am currently completing my last year. 
+Hi! I am a first-generation student at Loyola University Maryland, where I am completing my final year of study.
 
 Throughout my college career, I have gained proficiency in Access, ArcGIS, Tableau, Oracle, and SAP ERP. My technical skills include Java, Python, and SQL, which I’ve applied across academic and project work. In addition, I have obtained certifications in SAS through Loyola University Maryland’s Academic Specialization in Business Intelligence and Analytics, SQL from Loyola University Maryland, and Microsoft Specialist Excel 2019 Associate.
 
