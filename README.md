@@ -1,5 +1,5 @@
 # Brenda Morales Valdez
-Contact Info: [bsmoralesvaldez@loyola.edu]
+Contact Info: bsmoralesvaldez@loyola.edu
 ### About Me 
 Hi! I am a first-generation student at Loyola University Maryland, where I am completing my final year of study.
 
