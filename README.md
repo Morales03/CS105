@@ -11,7 +11,7 @@ Beyond academics, I work as a ramp agent at the airport. I also love immersing m
 **BBA in Information Systems & Data Analytics**  
 Loyola University Maryland
 2022-2026
-***
+*** 
 ### Projects
 
 #### Project 1 Title
