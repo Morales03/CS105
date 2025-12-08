@@ -1,3 +1,4 @@
+
 # Brenda Morales Valdez
 Contact Info: bsmoralesvaldez@loyola.edu
 ### About Me 
@@ -11,6 +12,7 @@ Beyond academics, I work as a ramp agent at the airport. I also love immersing m
 **BBA in Information Systems & Data Analytics**  
 Loyola University Maryland
 2022-2026
+
 ***
 ### Projects
 
@@ -18,11 +20,13 @@ Loyola University Maryland
  - Project 1 Summary
  - [insert project 1 screenshot here]
  - Project 1 Report
+   
 ***
 #### Project 2 Title
  - Project 2 Summary
  - [insert project 2 screenshot here]
  - Project 2 Report
+   
 ***
 #### Project 3 Title
  - Project 3 Summary
