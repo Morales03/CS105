@@ -24,7 +24,7 @@ This project created a fully validated Python grade calculator that processes an
 
 ***
 
-![Alt text](images/GradeGBD.jpeg)
+![Grade Image](/GradeGBD.jpeg)
 
 ***
 
@@ -55,7 +55,7 @@ This project uses Microsoft Access to build a relational database for student re
 
 ***
 
-![Alt text](images/KevinTranscript.jpeg)
+![Kevin Transcripts](/KevinTranscript.jpeg)
 
 ***
 
@@ -90,7 +90,7 @@ This project expanded my Excel Inventory Manager by adding visualizations, profi
 
 ***
 
-![Alt text](images/ExcelInventory.jpeg)
+![Excel Inventory](/ExcelInventory.jpeg)
 
 ***
 
