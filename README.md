@@ -19,16 +19,16 @@ Loyola University Maryland
 
 #### Grade Calculator Program
 
-**Grade Calculator Program Summary**
+**Summary**
 This project created a fully validated Python grade calculator that processes any number of students, ensures correct user input, calculates weighted averages, and reports both individual results and the final overall class average.
 
 ***
 
- [insert project 1 screenshot here]
+![Alt text](images/GradeGBD.jpeg)
 
 ***
 
-##### Grade Calculator Program Report
+#### Grade Calculator Program Report
 **Initial Project Idea**
 This project originated from the challenge of understanding how grades are evaluated in a typical college course. The original version of the program could only process one student and allowed users to enter incorrect or unrealistic values. I set out to create a more effective, user-friendly solution that enforced valid input ranges and allowed the user to evaluate an entire class in one program run.
 
@@ -55,11 +55,11 @@ This project uses Microsoft Access to build a relational database for student re
 
 ***
 
- [insert project 1 screenshot here]
+![Alt text](images/KevinTranscript.jpeg)
 
 ***
 
-##### Report
+#### Student Records & Transcript Generator Report
 **Initial Project Idea**
 The goal of this project was to simulate a functional college records system. I set out to build a small but realistic database that could store student information, track academic performance across multiple semesters, and generate polished transcripts
 
@@ -67,13 +67,13 @@ The goal of this project was to simulate a functional college records system. I 
 - Microsoft Access
 - Relational database concepts
 - Calculated fields
-- Report wizard inside Acess
+- Report wizard inside Access
 
 **Challenges I Faced**
-The challenge I faced was learning how to correctly use report wizard and the formatting of the transcripts. Since it was a tool inside of access I had not used before, it was learning curve with using it and correctly adding the calculated field of the overall GPA.
+The challenge I faced was learning how to correctly use the report wizard and the formatting of the transcripts. Since it was a tool inside of Access I had not used before, it was a learning curve with using it and correctly adding the calculated field of the overall GPA.
 
 **Other Resources**
-I use instructor video example to understand how to use report wizard inside of access and how to format it correctly. 
+I use my instructor's video example to understand how to use the report wizard inside of Access and how to format it correctly. 
 
 **Result**
 In the finished project, I created: 
@@ -90,11 +90,11 @@ This project expanded my Excel Inventory Manager by adding visualizations, profi
 
 ***
 
- [insert project 1 screenshot here]
+![Alt text](images/ExcelInventory.jpeg)
 
 ***
 
-##### Report
+#### Inventory Manager & Budget Analysis Workbook Report
 **Initial Project Idea**
 This project began with the need to understand product profitability and business sustainability for my fictional candy business, El Pulgacito Dulcery. While the original Inventory Manager stored basic product information, I expanded it to answer deeper business questions:
 - Which candy items generate the most profit?
@@ -105,13 +105,13 @@ This project began with the need to understand product profitability and busines
 - Excel
 - Charts
 - Cell Formulas
-- Seperate worksheet design organization
+- Separate worksheet design organization
 
 **Challenges I Faced**
-A challenge I faced was figuring out what was the most effect ways to tell a story to my share holder and the type of chart I would do it with. I also needed to choose what was the storying I'm trying to tell with all the data I had. 
+A challenge I faced was figuring out what was the most effective way to tell a story to my shareholders and the type of chart I would do it with. I also needed to choose what was the storying I'm trying to tell with all the data I had. 
 
 **Other Resources**
-I relied on my pervious experience with excel as I'm certiefied in using excell by my school.
+I relied on my previous experience with Excel as I'm certified in using Excel by my school.
 
 **Result**
- The final result includes an inventory manager sheet, budget tracker sheet, and budget analysis sheet. 
+ The final result includes an inventory manager sheet, a budget tracker sheet, and a budget analysis sheet. 
