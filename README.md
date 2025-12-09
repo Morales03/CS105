@@ -1,3 +1,4 @@
+![Banner](/Blush Wave LinkedIn Banner.png)
 
 # Brenda Morales Valdez
 Contact Info: <bsmoralesvaldez@loyola.edu>
